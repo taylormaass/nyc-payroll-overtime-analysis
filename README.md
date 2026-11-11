@@ -1,7 +1,7 @@
 # NYC Payroll Overtime Analysis | Fiscal Year 2025
 
 ## Project Overview
-This project examines overtime spending and hours across three New York City agencies—the Police Department (NYPD), Fire Department (FDNY), and Department of Sanitation (DSNY)—using fiscal year 2025 payroll records.
+This project examines overtime spending and hours across three New York City agencies: the Police Department (NYPD), Fire Department (FDNY), and Department of Sanitation (DSNY), using fiscal year 2025 payroll records.
 
 I used **Microsoft Excel and Power Query** to prepare and validate the data, aggregate agency-level metrics, and create a dashboard highlighting differences in overtime spending and hours.
 
