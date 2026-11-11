@@ -108,3 +108,12 @@ Payroll-Analytics-Project/
 
 ## Data Source
 [NYC Open Data — Citywide Payroll Data (Fiscal Year)](https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e)
+
+## Future Improvements & AI Integration
+
+While this project focuses on descriptive analytics using Excel and Power Query, future enhancements could include:
+
+- **Predictive Analytics:** Develop machine learning models in Python to forecast overtime spending based on historical payroll trends.
+- **Anomaly Detection:** Use statistical methods or machine learning to identify unusual overtime payments and records that may require further investigation.
+- **Automated Reporting:** Integrate Power BI and automated data refreshes to streamline overtime monitoring and reporting.
+- **AI-Assisted Insights:** Explore generative AI tools to summarize overtime trends and help stakeholders interpret dashboard findings.
