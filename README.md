@@ -111,9 +111,8 @@ Payroll-Analytics-Project/
 
 ## Future Improvements & AI Integration
 
-While this project focuses on descriptive analytics using Excel and Power Query, future enhancements could include:
+Future enhancements could expand this analysis beyond descriptive reporting through:
 
-- **Predictive Analytics:** Develop machine learning models in Python to forecast overtime spending based on historical payroll trends.
-- **Anomaly Detection:** Use statistical methods or machine learning to identify unusual overtime payments and records that may require further investigation.
-- **Automated Reporting:** Integrate Power BI and automated data refreshes to streamline overtime monitoring and reporting.
-- **AI-Assisted Insights:** Explore generative AI tools to summarize overtime trends and help stakeholders interpret dashboard findings.
+- **Predictive Analytics:** Apply Python and machine learning to forecast overtime spending using historical payroll trends.
+- **Anomaly Detection:** Identify unusual overtime payments and potential data-quality issues using statistical or machine learning techniques.
+- **AI-Assisted Reporting:** Explore generative AI and Power BI automation to streamline reporting and communicate key findings to stakeholders.
